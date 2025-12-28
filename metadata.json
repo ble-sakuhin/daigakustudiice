@@ -1,0 +1,8 @@
+{
+  "name": "ExamPilot: University Entrance Exam Study Companion",
+  "description": "A comprehensive app to manage reference books, track study progress, and maintain high motivation through AI-powered mentorship and data visualization.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
